@@ -21,3 +21,7 @@ We're on for a 15 months journey.
 ![]({{site.baseurl}}/assets/images/20190201_113457.jpg)
 
 ![]({{site.baseurl}}/assets/images/20190201_113509.jpg)
+
+On the photo:
+Front: Lorenzo Busoni, Jeroen Heijmans, Stefan Stroebele, Pierre Haguenauer, Bernardo Salasnich, Norbert Hubin, Francois Rigaut, Valentina Viotto, Maria Gergomi
+Back: Luca Pasquini, Simon Ellis, Roger Haynes, David Brodrick, Thierry Fusco, Benoit Neichel, Giovanni Cresci, Demetrio Magrin, Jacopo Farinato, Fernando Pedichini, Davide Greggio, Simone Antoniucci, Roberto Ragazzoni, Pierre-Yves Madec, Richard McDermid, Damien Gratadour, Harald Kuntschner, Robin Arsenault
