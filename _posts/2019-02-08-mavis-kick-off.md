@@ -1,7 +1,7 @@
 ---
 layout: post
 title: MAVIS Kick Off
-date: 2019-02-05 12:00:00 +1100
+date: 2019-02-09 12:00:00 +1100
 categories: [mavis]
 tags: [mavis]
 status: publish
@@ -12,7 +12,7 @@ comments: []
 
 All,
 
-We're happy to report that the MAVIS project was kicked off at ESO (Garching) on Jan 31 & Feb 1, 2019. The meeting was very successful, with about 16-17 consortium members and 6-7 ESO representatives.
+We're happy to report that the MAVIS project was kicked off at ESO (Garching) on Jan 31 & Feb 1, 2019. The meeting was very successful, with about 20 consortium members and 7 ESO representatives.
 
 We also had a pre-kickoff meeting on Jan 29 & 30, with about 15 consortium members. Things are starting to really shape up, and we're getting organised.
 
