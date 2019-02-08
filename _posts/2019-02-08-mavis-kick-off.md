@@ -17,3 +17,5 @@ We're happy to report that the MAVIS project was kicked off at ESO (Garching) on
 We also had a pre-kickoff meeting on Jan 29 & 30, with about 15 consortium members. Things are starting to really shape up, and we're getting organised.
 
 We're on for a 15 months journey.
+
+![]({{site.baseurl}}/assets/images/20190201_113457.jpg)
