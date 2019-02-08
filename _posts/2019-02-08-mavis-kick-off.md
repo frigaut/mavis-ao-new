@@ -19,3 +19,5 @@ We also had a pre-kickoff meeting on Jan 29 & 30, with about 15 consortium membe
 We're on for a 15 months journey.
 
 ![]({{site.baseurl}}/assets/images/20190201_113457.jpg)
+
+![]({{site.baseurl}}/assets/images/20190201_113509.jpg)
