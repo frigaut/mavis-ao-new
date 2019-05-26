@@ -359,7 +359,7 @@ The proposed science also spans the full range of categories considered by ESOâ€
 
 <table class="tg-baqh">
   <tr bgcolor="#B4C6E7">
-    <th class="tg-baqh" colspan="5"><a name="ch4"></a>The Evolving Complexity of Galaxy Stducture Over 10 Billion Years</th>
+    <th class="tg-baqh" colspan="5"><a name="ch4"></a>The Evolving Complexity of Galaxy Structure Over 10 Billion Years</th>
   </tr>
   <tr bgcolor="#B4C6E7">
     <th class="tg-baqh">Lead Author</th>
