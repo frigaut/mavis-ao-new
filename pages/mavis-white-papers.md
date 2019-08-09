@@ -41,7 +41,7 @@ The MAVIS White Paper process resulted in 57 complete individual science cases b
 1. <a href="#ch1">The Birth, Life, and Death of Stars and Their Planets</a>
 2. <a href="#ch2">Star Clusters as Tracers of Galaxy Processes Within the Local Group</a>
 3. <a href="#ch3">Directly Resolving Galaxy Contents Beyond the Local Group</a>
-4. <a href="#ch4">The Evolving Complexity of Galaxy Stducture Over 10 Billion Years</a>
+4. <a href="#ch4">The Evolving Complexity of Galaxy Structure Over 10 Billion Years</a>
 5. <a href="#ch5">Probing the Edge of Reionization</a>
 
 The proposed science also spans the full range of categories considered by ESOâ€™s Observing Programmes Committee (OPC), demonstrating the general purpose utility of MAVIS.
@@ -359,7 +359,7 @@ The proposed science also spans the full range of categories considered by ESOâ€
 
 <table class="tg-baqh">
   <tr bgcolor="#B4C6E7">
-    <th class="tg-baqh" colspan="5"><a name="ch4"></a>The Evolving Complexity of Galaxy Stducture Over 10 Billion Years</th>
+    <th class="tg-baqh" colspan="5"><a name="ch4"></a>The Evolving Complexity of Galaxy Structure Over 10 Billion Years</th>
   </tr>
   <tr bgcolor="#B4C6E7">
     <th class="tg-baqh">Lead Author</th>
