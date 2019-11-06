@@ -164,26 +164,30 @@
 </tr>
 </thead>
 <tbody>
+<!--<tr><td>Joss Bland-Hawthorn</td><td>University of Sydney, AUSTRALIA</td></tr>
+<tr><td>Luca Casagrande</td><td>Australian National University, AUSTRALIA</td></tr>
+<tr><td>Matthew Colless</td><td>ANU, AUSTRALIA</td></tr>
+<tr><td>Robert Content</td><td>Australian Astronomical Observatory, AUSTRALIA</td></tr>
 <tr><td>Luca Cortese</td><td>International Centre for Radio Astronomy Research, AUSTRALIA</td></tr>
+<tr><td>Tiffany Day</td><td>Macquarie University, AUSTRALIA</td></tr>
+<tr><td>Richard de Grijs</td><td>Macquarie University, SYDNEY</td></tr>
 <tr><td>Gayandhi De Silva</td><td>AAO/USyd, AUSTRALIA</td></tr>
 <tr><td>Simon Ellis</td><td>AAO, AUSTRALIA</td></tr>
-<tr><td>Richard McDermid</td><td>Macquarie University, AUSTRALIA</td></tr>
-<tr><td>Trevor Mendel</td><td>ANU, AUSTRALIA</td></tr>
-<tr><td>Francois Rigaut</td><td>ANU, AUSTRALIA</td></tr>
-<tr><td>Sarah Sweet</td><td>Swinburne University of Technology, AUSTRALIA</td></tr>
-<tr><td>Michele Trenti (TBC)</td><td>University of Melbourne, AUSTRALIA</td></tr>
-
-<!--<tr><td>Deanne Fisher</td><td>Swinburne, AUSTRALIA</td></tr>
+<tr><td>Deanne Fisher</td><td>Swinburne, AUSTRALIA</td></tr>
 <tr><td>Michael Goodwin</td><td>AAO, AUSTRALIA</td></tr>
 <tr><td>Anthony Horton</td><td>AAO, AUSTRALIA</td></tr>
 <tr><td>Michael Ireland</td><td>Australian National University, AUSTRALIA</td></tr>
+<tr><td>Devika Kamath</td><td>Macquarie University, AUSTRALIA</td></tr>
 <tr><td>Visa Korkiakoski</td><td>ANU, AUSTRALIA</td></tr>
 <tr><td>Jon Lawrence</td><td>AAO, AUSTRALIA</td></tr>
 <tr><td>Sergio Leon-Saval</td><td>SAIL / University of Sydney, AUSTRALIA</td></tr>
 <tr><td>Geraint Lewis</td><td>Sydney Institute for Astronomy, AUSTRALIA</td></tr>
 <tr><td>Laura Magrini</td><td>INAF-Osservatorio di Arcetri, ITALY</td></tr>
 <tr><td>Sarah Martell</td><td>UNSW, AUSTRALIA</td></tr>
+<tr><td>Richard McDermid</td><td>Macquarie University, AUSTRALIA</td></tr>
+<tr><td>Trevor Mendel</td><td>ANU, AUSTRALIA</td></tr>
 <tr><td>Matt Owers</td><td>Macquarie/AAO, AUSTRALIA</td></tr>
+<tr><td>Francois Rigaut</td><td>ANU, AUSTRALIA</td></tr>
 <tr><td>Stuart Ryder</td><td>AAO, AUSTRALIA</td></tr>
 <tr><td>Christian Schwab</td><td>Macquarie University, AUSTRALIA</td></tr>
 <tr><td>Jeffrey Simpson</td><td>Australian Astronomical Observatory, AUSTRALIA</td></tr>
@@ -191,6 +195,8 @@
 <tr><td>Jamie Soon</td><td>Australian National University, AUSTRALIA</td></tr>
 <tr><td>Lee Spitler</td><td>Macquarie University, AUSTRALIA</td></tr>
 <tr><td>Dennis Stello</td><td>UNSW-Sydney, AUSTRALIA</td></tr>
+<tr><td>Sarah Sweet</td><td>Swinburne University of Technology, AUSTRALIA</td></tr>
+<tr><td>Michele Trenti</td><td>University of Melbourne, AUSTRALIA</td></tr>
 <tr><td>Tayyaba Zafar</td><td>AAO, AUSTRALIA</td></tr>
 <tr><td>Jessica Zheng</td><td>AAO, AUSTRALIA</td></tr>
 <tr><td>Daniel Zucker</td><td>Macquarie University / AAO, AUSTRALIA</td></tr> -->
@@ -211,8 +217,8 @@ The following persons have expressed interest in participating remotely to some 
 </tr>
 </thead>
 <tbody>
-<tr><td>Devika Kamath</td><td>Macquarie University</td></tr>
-<!--<tr><td>Jennifer Dunn</td><td>Hertzberg NRC, CANADA</td></tr>
+<!-- <tr><td>Giuseppe Bono</td><td>University of Rome Tor Vergata, ITALY</td></tr>
+<tr><td>Jennifer Dunn</td><td>Hertzberg NRC, CANADA</td></tr>
 <tr><td>Karl Glazebrook</td><td>Swinburne University of Technology, AUSTRALIA</td></tr>
 <tr><td>Damien Gratadour</td><td>Observatoire de Paris, FRANCE</td></tr>
 <tr><td>Gaetano Sivo</td><td>Gemini Observatory, CHILE</td></tr>
