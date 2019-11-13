@@ -12,7 +12,6 @@ liquid:
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Off to MAVIS Blog
   avatar: assets/img/gs_mcao_lgs_gems.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
