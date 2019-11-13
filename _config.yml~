@@ -5,13 +5,11 @@ url: "https://frigaut.github.io"
 title: Off to MAVIS Blog
 
 strict_front_matter: true
-liquid:
-  error_mode: strict
-  strict_filters: true
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
+  title: Off to MAVIS Blog
   avatar: assets/img/gs_mcao_lgs_gems.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
