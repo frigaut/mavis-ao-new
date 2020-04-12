@@ -16,17 +16,14 @@ The Kioloa busy week took place from March 6 to 10, 2020. 10 months after the fi
 
 Long days, as we shifted the working hours toward the evening to be able to overlap with the italians for at least 3 hours a day. But absolutely worth it. Kioloa was delightful. Nice facilities, aussie-like, i.e. minimum confort but truely genuine with a natural setting. Old and cosy bungalows. Good food though! And good company. Overall, a very enjoyable experience. I have put a couple of pictures here.
 
-![]({{site.baseurl}}/assets/images/20200301_180358.jpg)
+|  |  |  |
+| -- | -- | -- |
+| ![]({{site.baseurl}}/assets/images/20200301_180358.jpg) | ![]({{site.baseurl}}/assets/images/20200302_134330.jpg) | ![]({{site.baseurl}}/assets/images/20200304_150213_1.jpg) |
+
 ![]({{site.baseurl}}/assets/images/20200301_194932.jpg)
 ![]({{site.baseurl}}/assets/images/20200301_204913.jpg)
-![]({{site.baseurl}}/assets/images/20200302_134330.jpg)
-![]({{site.baseurl}}/assets/images/20200304_150213_1.jpg)
 
 
-
-|  |  |
-| --- | --- |
-| ![]({{site.baseurl}}/assets/images/20190509_163259.jpg) | ![]({{site.baseurl}}/assets/images/20190509_105807.jpg) |
 
 
 
