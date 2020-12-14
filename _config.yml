@@ -2,23 +2,26 @@
 # baseurl: "/mavis-ao"
 baseurl: ""
 url: "https://frigaut.github.io"
-title: Off to MAVIS Blog
+title: MAVIS Blog
 
 strict_front_matter: true
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Off to MAVIS Blog
+  title: MAVIS Blog
   avatar: assets/img/gs_mcao_lgs_gems.jpg
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "MAVIS: a Mcao Assisted Visible Imager and Specrograph for the VLT" # used by search engines
+  description: "MAVIS: a MCAO-Assisted Visible Imager and Spectrograph for the VLT AOF" # used by search engines
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p style="text-align:right;"><font size="+20">MAVIS</font><br>Sharper than JWST, deeper than HST</p>
-  header_text_feature_image: assets/img/pexels/eso1724e.jpg
+     <p style="text-align:right;font-family: 'Alegreya Sans SC', sans-serif; font-weight: 800; color: #3b9eec; line-height: 1.5em;">
+     <font style="font-size: 400%;color: #fff; text-shadow: 0 0 5px rgba(255,255,255,0.8);">MAVIS</font><br>
+     <font style="font-size: 160%;color: #ccc; color: transparent; text-shadow: 0 0 2px rgba(255,255,255,0.5);">Sharper than JWST, deeper than HST</font>
+     </p>
+  header_text_feature_image: assets/img/pexels/cluster_banner.png
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/sylhare/Type-on-Strap">Type on Strap</a>
 

@@ -5,8 +5,7 @@ permalink: /mavis/
 tags: [mavis]
 ---
 
-<!-- <img style="position: absolute; right:30px; top:60px; margin-left: 10px; width:20%; !important" src="{{site.baseurl}}/assets/images/mavis_logo_2.png"> -->
-
+This page is superseded by the description of the MAVIS phase A, [available here]({{site.baseurl}}{% post_url 2020-12-14-mavis-description %}).
 
 [Here]({{site.baseurl}}/assets/pdfs/MAVIS_factsheet.pdf) is the MAVIS factsheet for a top level summary. An overview presentation of MAVIS can also be found [here]({{site.baseurl}}{% post_url 2018-03-02-mavis-overview_talk %}).
 
@@ -92,7 +91,7 @@ While much solar system science is focussed on probe missions, many aspects are 
 
 <img style="float: right; margin:0; padding:0; margin-left: 10px; width:30%; !important" src="{{site.baseurl}}/assets/images/aoloop_diagram.png">
 
-Adaptive Optics (AO) is a technique to compensate quickly varying optical aberrations in an optical system. In astronomy, telescope images from astronomical objects are blurred by atmospheric turbulence. By using AO, astronomers can cancel out these blurs and restore images close to the ultimate image quality imposed by the telescope, something called diffraction limit (and given by the ratio of the imaging wavelength and the telescope aperture diameter, $$\lambda/D$$). The diagram on the right illustrates the principle of AO: The light coming from a star through atmospheric turbulence, after being collected by the telescope, bounces off a *deformable mirror* (DM) that is shaped to compensate the corrugation of the light wave. A *Wavefront Sensor* (WFS) measures the aberrated light wave, and, through a *control computer*, is used to control the shape of the DM. The resulting *compensated* light can be captured by regular post focal instrumentation, imagers or spectrographs, with greatly improved clarity (angular resolution) with respect to the natural seeing limit imposed by atmospheric turbulence.
+Adaptive Optics (AO) is a technique to compensate quickly varying optical aberrations in an optical system. In astronomy, telescope images from astronomical objects are blurred by atmospheric turbulence. By using AO, astronomers can cancel out these blurs and restore images close to the ultimate image quality imposed by the telescope, something called diffraction limit (and given by the ratio of the imaging wavelength and the telescope aperture diameter, &#955;/D). The diagram on the right illustrates the principle of AO: The light coming from a star through atmospheric turbulence, after being collected by the telescope, bounces off a *deformable mirror* (DM) that is shaped to compensate the corrugation of the light wave. A *Wavefront Sensor* (WFS) measures the aberrated light wave, and, through a *control computer*, is used to control the shape of the DM. The resulting *compensated* light can be captured by regular post focal instrumentation, imagers or spectrographs, with greatly improved clarity (angular resolution) with respect to the natural seeing limit imposed by atmospheric turbulence.
 
 
 <img style="clear:both; float: right; margin:0; padding:0; margin-top:10px; margin-left: 10px; width:50%; !important" src="{{site.baseurl}}/assets/images/mcao_principle.gif">
@@ -111,7 +110,7 @@ MAVIS proposes to merge two demonstrated techniques:
 
 <img style="clear:both; float: right; margin:0; padding:0; margin-top:10px; margin-left: 10px; width:50%; !important" src="{{site.baseurl}}/assets/images/ngc288.jpg">
 
-* On the other hand, **MCAO in the Near-Infrared has been demonstrated** by MAD (ESO) and GeMS (Gemini). The latter is a facility instrument on the Gemini South telescope, and has been producing images close to the diffraction limit over field of view of $$85'' \times 85''$$ since 2011.
+* On the other hand, **MCAO in the Near-Infrared has been demonstrated** by MAD (ESO) and GeMS (Gemini). The latter is a facility instrument on the Gemini South telescope, and has been producing images close to the diffraction limit over field of view of 85"x85" since 2011.
 
 MAVIS will combine these two demonstrated techniques to provide unprecedented angular resolution in the visible part of the spectrum. Of course, there are challenges, of which the tight error budget is certainly the one we will have to watch the most closely. Expected performance are reported below.
 
@@ -124,31 +123,31 @@ ESO's call for proposal includes Top Level Requirements (TLRs), [available on th
 ### MCAO system
 
 Performance parameters (subject to adjustment after the phase A)
-* Field of view (FoV): $$30'' \times 30''$$
+* Field of view (FoV): 30"x30'
 * Wavelength coverage: VRI, extended to UBz (goal)
-* Angular resolution (FWHM): $$\approx$$ 20 milliarcsec at V
+* Angular resolution (FWHM): ~20 milliarcsec at V
 * Strehl of 15% in V under median seeing conditions
 * Sky coverage: > 50%
 
 System parameters (subject to adjustment after the phase A)
-* Number of Laser Guide Stars: $$\ge 4$$
-* Number of Natural Guide Stars $$\ge$$ 3
-* Zenith angle restrictions: $$\le$$ 2 airmasses
+* Number of Laser Guide Stars: 8
+* Number of Natural Guide Stars 3
+* Zenith angle restrictions: <2 airmasses
 <!-- * Optical Throughput: TBD -->
 
 #### Sky coverage
 
 The sky coverage is of the utmost importance for an AO system in general, and a MCAO system in particular. To compensate for Tip, Tilt and plate scale modes (variation of the plate scale across the field of view i.e. "*breathing*" of the image), a minimum of three natural guide stars (NGS) is needed. Several studies of NGS availability have been done in the context of GeMS, the TMT NFIRAOS and the E-ELT MAORY. All of this studies conclude that the sky coverage can be reasonably high if certain conditions are met:
-* An acquisition field of view for the NGS that is significantly larger than the science field. For MAVIS, the acquisition field is envisaged to be 90-120$$''$$ in diameter.
-* There is a significant gain to be had by using the NGSs in the Near Infrared (typically 1 to 1.7$$\mu$$m). At this wavelength, the NGSs are quite well corrected and the guiding can be done using their tight core, which improve accuracy and SNR ([here](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjau5uA6tbZAhWJW5QKHcy3Bg4QFggrMAA&url=https%3A%2F%2Fwww.spiedigitallibrary.org%2Fconference-proceedings-of-spie%2F7015%2F70155X%2FEvaluating-sky-coverage-for-the-NFIRAOS-tiptilt-control-architecture%2F10.1117%2F12.787975.pdf&usg=AOvVaw09C68H1o0bHxJCRRfuM5vl) and [here](https://www.ncbi.nlm.nih.gov/pubmed/22695611)). For instance, NFIRAOS anticipates a sky coverage of 70% over the whole sky (it is NIR, so easier than visible, but ELT, so more difficult as the tolerable rms TT error is smaller).
+* An acquisition field of view for the NGS that is significantly larger than the science field. For MAVIS, the acquisition field is envisaged to be 90-120" in diameter.
+* There is a significant gain to be had by using the NGSs in the Near Infrared (typically 1 to 1.7 micron). At this wavelength, the NGSs are quite well corrected and the guiding can be done using their tight core, which improve accuracy and SNR ([here](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjau5uA6tbZAhWJW5QKHcy3Bg4QFggrMAA&url=https%3A%2F%2Fwww.spiedigitallibrary.org%2Fconference-proceedings-of-spie%2F7015%2F70155X%2FEvaluating-sky-coverage-for-the-NFIRAOS-tiptilt-control-architecture%2F10.1117%2F12.787975.pdf&usg=AOvVaw09C68H1o0bHxJCRRfuM5vl) and [here](https://www.ncbi.nlm.nih.gov/pubmed/22695611)). For instance, NFIRAOS anticipates a sky coverage of 70% over the whole sky (it is NIR, so easier than visible, but ELT, so more difficult as the tolerable rms TT error is smaller).
 * Using as short and simple an optical train prior to the NGS wavefront sensors to maximise throughtput (e.g. as done in [NGS2](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9909/1/NGS2--a-focal-plane-array-upgrade-for-the-GeMS/10.1117/12.2230481.full?SSO=1), the new generation sensor for GeMS at Gemini)
 
 A preliminary analysis of sky coverage will be done for the phase A proposal, and a full analysis for the phase A. For now, what is important to realise is that the performance degradation is gentle when going to fainter guide stars: A larger tip-tilt error means essentially a broadening of the Point Spread Function core, but the flux stays in the core, which means that this has little effect on the limiting magnitude of the images produced by the system, and almost zero effect for spectroscopic applications &mdash;to a certain extent&mdash; for which in general the aperture is larger than the diffraction limit.
 
 ### Post-focal instrumentation
 
-* Imager: 4k$$\times$$4k covering the 30$$''$$ FoV. Filters will include a set of broad band filters and narrow band filters TBD.
-* Spectrograph: TBD. One concept that seems to be picking up interest for the stellar applications proposes single fibres + fibre bundle with a Starbug positioner and a spectral resolution of 5000 to 10000 TBC. Another concept that is favoured by ESO is an image slicer IFU covering about 3$$''\times3''$$ at 25mas spaxel size ("1/4 of MUSE"). 
+* Imager: 4kx4k covering the 30" FoV. Filters will include a set of broad band filters and narrow band filters TBD.
+* Spectrograph: TBD. One concept that seems to be picking up interest for the stellar applications proposes single fibres + fibre bundle with a Starbug positioner and a spectral resolution of 5000 to 10000 TBC. Another concept that is favoured by ESO is an image slicer IFU covering about 3x3" at 25mas spaxel size ("1/4 of MUSE"). 
 
 
 This is being defined right now by discussions within the science team (you are welcome to [join](mailto:richard.mcdermid@mavis-ao.org)). The AO performance is very much set by the atmosphere and the technology. The post-focal instrumentation is much more open, although it will inevitably be constrained by funding and compromises between the various instrumental options. The characteristics listed above are a snapshot of the current thinking.
