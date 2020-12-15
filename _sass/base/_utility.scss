@@ -18,7 +18,7 @@
 
 %padding-fri {
     padding: $padding-x-small $padding-large $padding-x-small $padding-large;
-    padding: 1% 20% 2% 20%;
+    padding: 1% 12% 0% 12%;
     @media (max-width: 1000px) {
         padding: $padding-small * 1.5 $padding-large / 1.6;
     }
@@ -67,6 +67,7 @@ a.button {
         color: lighten($link-color, 10%);
     }
     font-size: 75%;
+    font-family: "Alegreya Sans SC";
     color: $title-color;
 }
 
