@@ -15,7 +15,7 @@ Very long time we have not updated this blog. There are lots of news, all positi
 
 ## MAVIS Phase A review
 
-The MAVIS phase A review took place over two half days on may 26-27, 2020 - at the height of the COVID first wave. It was all virtual of course. The documentation was delivered 6 weeks prior to the review, and in the usual ESO review style, we had an exchange of RID/RIX/RIC prior to the review itself, so that the review was dedicated to discussions on points that were not settled during this pe-review process. 
+The MAVIS phase A review took place over two half days on may 26-27, 2020 - at the height of the COVID first wave. It was all virtual of course. The documentation was delivered 6 weeks prior to the review, and in the usual ESO review style, we had an exchange of RID/RIX/RIC prior to the review itself, so that the review was dedicated to discussions on points that were not settled during this pre-review process. 
 
 MAVIS passed the phase A review, with a handful of actions items that were addressed by Mid July. 
 

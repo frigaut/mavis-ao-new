@@ -1,12 +1,15 @@
 ---
 layout: page
-title: MAVIS White Papers
+title: Science
 permalink: /whitepapers/
 tags: [mavis,science,whitepapers]
 ---
 
 <!-- * Table of content
 {:toc} -->
+
+
+**The Science case is now [available on arXiv](https://arxiv.org/abs/2009.09242)! Grab it from there; it consolidates and build upon our work on all the white papers exposed below.**
 
 ## Overview of the MAVIS White Paper process
 

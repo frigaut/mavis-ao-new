@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About MAVIS
+title: About
 permalink: /mavis/
 tags: [mavis]
 ---

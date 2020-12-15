@@ -1,6 +1,6 @@
 ---
 layout: page
-title: MAVIS Workshops
+title: Events
 permalink: /Workshops/
 tags: [mavis,workshops]
 ---

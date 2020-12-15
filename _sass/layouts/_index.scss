@@ -26,6 +26,7 @@
     h4,
     h5 {
         @extend .header-txt-shadow;
+        font-family: "Alegreya Sans SC";
     }
 
     p:last-child {
@@ -35,6 +36,8 @@
 
 #main {
     background-position: 100% 0px, 0% center, center top;
+    margin-bottom: 1em;
+
 }
 
 // Post listing

@@ -9,8 +9,8 @@ strict_front_matter: true
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: MAVIS Blog
-  avatar: assets/img/gs_mcao_lgs_gems.jpg
+  title: Back2Blog
+  avatar: assets/img/mavis_logo_square.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
   description: "MAVIS: a MCAO-Assisted Visible Imager and Spectrograph for the VLT AOF" # used by search engines

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Performance Resources
+title: Resources
 permalink: /resources/
 tags: [mavis,science]
 ---
