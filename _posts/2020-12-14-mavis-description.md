@@ -1,19 +1,21 @@
 ---
 layout: post
 title: MAVIS Conceptual Design
-date: 2020-12-10
+date: 2020-12-14
 categories: [mavis]
 tags: [mavis]
 status: publish
 published: true
 author: frigaut
 comments: []
+excerpt_separator: <!--more-->
 ---
 
 [This is the web version of the paper published at [SPIE 2020]({{site.baseurl}}/assets/pdfs/Rigaut-mavis-phasea-spie2020.pdf); Another crucial resource is the [Science Case](https://arxiv.org/abs/2009.09242), available at the arXiv]. This paper has many authors (essentially the entire MAVIS phase A crew).
 
 ### Abstract
 A consortium of several Australian and European institutes – together with the European Southern Observatory (ESO) – has initiated the design of MAVIS, a Multi-Conjugate Adaptive Optics (MCAO) system for the ground-based 8-m Very Large Telescope (VLT). MAVIS (**MCAO-assisted Visible Imager and Spectrograph**) will deliver visible images and integral field spectrograph data with **2-3x better angular resolution than the Hubble Space Telescope**, making it a powerful **complement** at visible wavelengths to future facilities like the space-based James Webb Space Telescope and the 30 to 40m-class ground-based telescopes currently under construction, which are all targeting science at near-infrared wavelengths. MAVIS successfully passed its Phase A in May 2020. We present the motivations, requirements, principal design choices, conceptual design, expected performance and an overview of the exciting science enabled by MAVIS.
+<!--more-->
 
 ## 1. Introduction
 
