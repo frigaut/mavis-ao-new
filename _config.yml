@@ -9,7 +9,7 @@ strict_front_matter: true
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Back2Blog
+  title: mavis-ao
   avatar: assets/img/mavis_logo_square.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
