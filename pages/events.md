@@ -5,7 +5,13 @@ permalink: /Workshops/
 tags: [mavis,workshops]
 ---
 	
-Below is a list of workshops that the MAVIS team have organised since the beginning of the project
+## Upcoming events
+
+We are planning a virtual MAVIS workshop during the **first semester 2021**, before the end-of-COVID-we-can-travel-again rush, hopefully happening later in the year. Watch this space!
+
+## Past Events
+
+Below is a list of workshops that the MAVIS team have organised since the beginning of the project.
 
 * [**Science Workshop, Macquarie University, December 4-6th 2019**]({{site.baseurl}}/workshop_mq2019/)
 * [**Science Workshop, Arcetri Observatory, November 4-8th 2019**](https://indico.ict.inaf.it/event/850/)

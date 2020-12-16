@@ -2,13 +2,14 @@
 
     <!-- Logo and title -->
 	<div class="branding">
-		<a href="{{ site.baseurl }}/">
+    <a href="{{ site.baseurl }}/">
+      <!-- <img class="avatar" style="display: block; max-width: 40%; width: auto; " src="{{site.baseurl}}/assets/images/mavis_logo_square.png" alt=""/> -->
 			<img class="avatar" src="{{ site.baseurl }}/{{ site.theme_settings.avatar }}" alt=""/>
 		</a>
 
-		<h1 class="site-title">
+		<!-- <h1 class="site-title">
 			<a href="{{ site.baseurl }}/">{{ site.theme_settings.title }}</a>
-		</h1>
+		</h1> -->
 	</div>
 
     <!-- Toggle menu -->
@@ -23,7 +24,7 @@
       {% if page.title and page.hide != true %}
       <a href="{{ page.url | relative_url }}">
         {{ page.title }}
-      </a> ✪
+      </a> &nbsp;✪&nbsp;
       {% endif %}
       {% endfor %}
       <!-- {% if site.theme_settings.portfolio %}
@@ -37,7 +38,7 @@
       {% if site.theme_settings.search %}
       <a href="{{ site.url }}{{ site.baseurl }}/search">
         <i class="fa fa-search" aria-hidden="true"></i>
-      </a>
+      </a>&nbsp;
       {% endif %}
       {% if site.theme_settings.tags %}
       <a href="{{ site.url }}{{ site.baseurl }}/tags">

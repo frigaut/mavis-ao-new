@@ -65,3 +65,12 @@ h4 {
 p { 
   margin-bottom: 0.4em;
 }
+
+img.sticky {
+  position: -webkit-sticky;
+  transform: scale(0.6);
+  position: sticky;
+  /* position: fixed; */
+  top: 2em;
+  /* left: -10%; */
+}

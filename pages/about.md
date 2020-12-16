@@ -5,38 +5,84 @@ permalink: /mavis/
 tags: [mavis]
 ---
 
-This page is superseded by the description of the MAVIS phase A, [available here]({{site.baseurl}}{% post_url 2020-12-14-mavis-description %}).
+## Resources
 
-[Here]({{site.baseurl}}/assets/pdfs/MAVIS_factsheet.pdf) is the MAVIS factsheet for a top level summary. An overview presentation of MAVIS can also be found [here]({{site.baseurl}}{% post_url 2018-03-02-mavis-overview_talk %}).
+This page gives a general, synthetic overview of MAVIS. For more information, please consult:
 
-* What is MAVIS?
-{:toc}
+  * MAVIS phase A snapshot, [available here]({{site.baseurl}}{% post_url 2020-12-14-mavis-description %}).
+  * MAVIS science case, [available here](https://arxiv.org/abs/2009.09242).
+
+<!-- [Here]({{site.baseurl}}/assets/pdfs/MAVIS_factsheet.pdf) is the MAVIS factsheet for a top level summary. An overview presentation of MAVIS can also be found [here]({{site.baseurl}}{% post_url 2018-03-02-mavis-overview_talk %}). -->
+
 
 ##  What is MAVIS?
 
-<img style="float: right; margin:0; padding:0; margin-left: 10px; width:50%; !important" src="{{site.baseurl}}/assets/images/Screen%20Shot%202018-03-02%20at%202.43.26%20pm.png">
+<img style="float: right; margin:0; padding:0; margin-left: 10px; width:50%; !important" src="{{site.baseurl}}/assets/images/mavis_at_nasmyth.png">
 
-<strong>MAVIS</strong> is a proposed instrument for the [ESO](https://www.eso.org/public/news/eso1721/)'s [VLT](http://www.eso.org/public/australia/teles-instr/paranal-observatory/vlt/) [AOF](https://www.eso.org/sci/facilities/develop/ao/images/AOF_Booklet.pdf) (Adaptive Optics Facility, UT4 [Yepun](https://www.eso.org/public/teles-instr/paranal-observatory/vlt/vlt-names/)). MAVIS stands for <b>M</b>CAO <b>A</b>ssisted <b>V</b>isible <b>I</b>mager and <b>S</b>pectrograph. It is intended to be installed at the Nasmyth focus of the VLT AOF and is made of two main parts: an <strong>[Adaptive Optics](https://en.wikipedia.org/wiki/Adaptive_optics)</strong> (AO) system that cancels the image blurring induced by atmospheric turbulence and its <strong>post focal instrumentation</strong>, for which the baseline is a 4000x4000 pixel imager and a spectrograph, both covering the visible part of the light spectrum.
+<strong>MAVIS</strong> is an instrument being built for the [ESO](https://www.eso.org/public/news/eso1721/)'s [VLT](http://www.eso.org/public/australia/teles-instr/paranal-observatory/vlt/) [AOF](https://www.eso.org/sci/facilities/develop/ao/images/AOF_Booklet.pdf) (Adaptive Optics Facility, UT4 [Yepun](https://www.eso.org/public/teles-instr/paranal-observatory/vlt/vlt-names/)). MAVIS stands for <b>M</b>CAO <b>A</b>ssisted <b>V</b>isible <b>I</b>mager and <b>S</b>pectrograph. It is intended to be installed at the Nasmyth focus of the VLT AOF and is made of two main parts: an <strong>[Adaptive Optics](https://en.wikipedia.org/wiki/Adaptive_optics)</strong> (AO) system that cancels the image blurring induced by atmospheric turbulence and its <strong>post focal instrumentation</strong>, an imager and an IFU spectrograph, both covering the visible part of the light spectrum.
 
-The VLT, since its first light in 1998, has already gone through two generations of instruments. In 2015 and 2016, ESO probed the community for ideas for a third generation instrument at its "ESO community days". Simone Esposito, backed up by scientists and instrument makers from INAF,  [proposed](https://www.eso.org/sci/meetings/2016/VLTAO2016/VLTAO_generation3v4a_Esposito.pdf) a visible MCAO system: Taking advantage of the superb performance of the AOF (powerful Laser Guide Stars and Deformable Secondary Mirror), the idea is to push AO toward the visible, and, using the Multi-Conjugate AO concept, to provide a large field of view at an angular resolution close to the diffraction limit of the 8-m aperture.
 
-It is anticipated that ESO will release a call for proposal for such an instrument sometime during spring 2018 (North-hemisphere spring that is). Australia is leading a consortium that includes the [ANU](http://anu.edu.au), the [AAO](http://aao.gov.au), [INAF](http://www.inaf.it/en) and the [Laboratoire d'Astrophysique de Marseille](https://www.lam.fr/?lang=en), with associated members [ONERA](https://www.onera.fr/en), [Swinburne University of Technology](http://www.swinburne.edu.au) and [Macquarie University](https://mq.edu.au). Eventually, all the Australian institutes will be participating under the umbrella of the soon-to-be-formed National Optical Instrumentation Capability; in that sense this is a national effort (as well as, in Italy, this is a national effort lead by and under the umbrella of INAF).
+MAVIS will take advantage of the superb performance of the AOF (powerful Laser Guide Stars and Deformable Secondary Mirror). MAVIS will push AO toward the visible, and, using the Multi-Conjugate AO concept, will provide a 30"x30" wide field of view at an angular resolution close to the diffraction limit of the 8-m aperture. This is unprecedented in ground-based instrumentation. 
 
-ESO has developed a [science case](http://www.eso.org/public/about-eso/committees/stc/stc-90th/public/STC_601_Science_Cases_for_VLT_Visible_MCAO_Instrument_90th_STC_mtg_Oct_2017.pdf) and requirements for this instrument. The MAVIS consortium, with the help of the [community at large]({{site.baseurl}}{% post_url 2017-11-27-first-mavis-science-workshop %}), is currently enriching the science case and developing an instrumental concept.
+The figure on the right gives a 3D view of how MAVIS will fit on the AOF Nasmyth platform, opposite to MUSE.
 
-MAVIS has the potential to be an extremely novel and powerful facility. With an angular resolution of 15 milliarcseconds (close to 50 times better than the seeing limited conditions encountered without Adaptive Optics) and a powerful and sensitive post-focal instrumentation, MAVIS will be instrumental to bring answers to a number of astrophysical science questions regarding stellar evolution and star formation, physical composition of mid-redshift galaxies, how early galaxies assemble, or closer to us, weather monitoring on our solar system planets and moons.
+The table below gives a summary of the instrument main characteristics, as it stands at the completion of the phase A.
 
-If you are interested in helping developing the science case, the best opportunity in the near future is to attend the [MAVIS Science &amp; Instrumentation workshop](http://mavis-ao.org/workshop/), Sydney, 7-9 May 2018. You can also [contact the project scientist](mailto:project-scientist@mavis-ao.org).
+<table style="border: 2px solid #a0a0a0;">
+<tbody>
+<tr><td colspan="2" style="border-right: 2px solid #a0a0a0;"> <b style="font-family: Alegreya Sans SC;">General Properties + AO Module</b> </td><td colspan="2"> <b style="font-family: Alegreya Sans SC">Imager</b> </td></tr>
+<tr><td> Focus </td><td style="border-right: 2px solid #a0a0a0;"> Nasmyth A VLT-AOF (UT4) </td><td> Field of View </td><td> 30" x 30"  </td></tr>
+<tr><td> NGS Field of View  </td><td style="border-right: 2px solid #a0a0a0;"> 120" diameter disk  </td><td> Pixel Scale   </td><td> 7.36 mas/pix </td></tr>
+<tr><td> Number of NGS      </td><td style="border-right: 2px solid #a0a0a0;"> &#8804; 3  </td><td> Sensitivity   </td><td> V > 29mag (5&#963;) in 1hr </td></tr>
+<tr><td> Limit. magnitude </td><td style="border-right: 2px solid #a0a0a0;"> Hmag &#8805; 18.5  </td><td> Filters       </td><td> BVRI, ugriz, various narrow bands </td></tr>
+<tr><td> LGS beacons        </td><td style="border-right: 2px solid #a0a0a0;"> 8 on a circle of 17.5" &#8960;  </td><td colspan="2"  style="border-top: 2px solid #a0a0a0;"> <b style="font-family: Alegreya Sans SC">Spectrograph</b> </td></tr>
+<tr><td> Sky coverage       </td><td style="border-right: 2px solid #a0a0a0;"> &#8805;50% at the South Galactic Pole </td><td> IFU Spaxel and FoV, fine </td><td>20-25mas spaxels, 2.5"x3.6" FoV </td></tr>
+<tr><td> Ensquared Energy   </td><td style="border-right: 2px solid #a0a0a0;"> > 15% within 50mas at 550nm  </td><td> IFU Spaxel and FoV, coarse </td><td>40-50mas spaxels, 5"x7.2" FoV</td></tr>
+<tr><td> Strehl             </td><td style="border-right: 2px solid #a0a0a0;"> > 10% (15% goal) in V-band  </td><td> LR-Blue Spectral Config. </td><td> 5,900 &#955;/&#916;&#955;, 370-720nm, 21@550nm </td></tr>
+<tr><td></td><td style="border-right: 2px solid #a0a0a0;"></td><td> LR-Red Spectral Config.  </td><td> 5,900  &#955;/&#916;&#955;, 510-1000nm, 21.5@750nm </td></tr>
+<tr><td></td><td style="border-right: 2px solid #a0a0a0;"></td><td> HR-Blue Spectral Config. </td><td> 14,700 &#955;/&#916;&#955;, 425-550nm, 19.6@475nm </td></tr>
+<tr><td></td><td style="border-right: 2px solid #a0a0a0;"></td><td> HR-Red Spectral Config.  </td><td> 11,500 &#955;/&#916;&#955;, 630-880nm, 20.7@725nm </td></tr>
+</tbody>
+</table>
 
 
 ## Science with MAVIS
 
-The detailed Science Case for MAVIS is currently under active development, and will extend upon the [initial collection of cases put forward by ESO](http://www.eso.org/public/about-eso/committees/stc/stc-90th/public/STC_601_Science_Cases_for_VLT_Visible_MCAO_Instrument_90th_STC_mtg_Oct_2017.pdf). If you would like to contribute to the MAVIS Science Case, please [contact us](mailto:project-scientist@mavis-ao.org). A call for science white papers [went out in April]({{site.baseurl}}{% post_url 2018-04-11-white-paper-call %}), already [attracting a lot of interest]({{site.baseurl}}{% post_url 2018-04-25-white-papers %}) from all consortium members &mdash; and beyond.
+<!-- <table style="position: static; float: right; width: 58%; margin-left: 10px;">
+<tbody>
+<tr><td colspan="2"> <b style="font-family: Alegreya Sans SC">General Properties - AO Module</b> </td></tr>
+<tr><td> Focus </td><td> Nasmyth A VLT-AOF (UT4) </td></tr>
+<tr><td> NGS Field of View  </td><td> 120" diameter disk  </td></tr>
+<tr><td> Number of NGS      </td><td> &#8804; 3  </td></tr>
+<tr><td> Limiting magnitude </td><td> Hmag &#8805; 18.5  </td></tr>
+<tr><td> LGS beacons        </td><td> 8 on a circle of 17.5" &#8960;  </td></tr>
+<tr><td> Sky coverage       </td><td> &#8805;50% at the South Galactic Pole </td></tr>
+<tr><td> Ensquared Energy   </td><td> > 15% within 50mas at 550nm  </td></tr>
+<tr><td> Strehl             </td><td> > 10% (15% goal) in V-band  </td></tr>
+<tr><td colspan="2"> <b style="font-family: Alegreya Sans SC">Imager</b> </td></tr>
+<tr><td> Field of View </td><td> 30" x 30"  </td></tr>
+<tr><td> Pixel Scale   </td><td> 7.36 mas/pix </td></tr>
+<tr><td> Sensitivity   </td><td> V > 29mag (5&#963;) in 1hr </td></tr>
+<tr><td> Filters       </td><td> BVRI, ugriz, various narrow bands </td></tr>
+<tr><td colspan="2"> <b style="font-family: Alegreya Sans SC">Spectrograph</b> </td></tr>
+<tr><td> IFU Spaxel and FoV, fine </td><td>20-25mas spaxels, 2.5"x3.6" FoV </td></tr>
+<tr><td> IFU Spaxel and FoV, coarse </td><td>40-50mas spaxels, 5"x7.2" FoV</td></tr>
+<tr><td> LR-Blue Spectral Config. </td><td> 5,900 &#955;/&#916;&#955;, 370-720nm, 21@550nm </td></tr>
+<tr><td> LR-Red Spectral Config.  </td><td> 5,900  &#955;/&#916;&#955;, 510-1000nm, 21.5@750nm </td></tr>
+<tr><td> HR-Blue Spectral Config. </td><td> 14,700 &#955;/&#916;&#955;, 425-550nm, 19.6@475nm </td></tr>
+<tr><td> HR-Red Spectral Config.  </td><td> 11,500 &#955;/&#916;&#955;, 630-880nm, 20.7@725nm </td></tr>
+</tbody>
+</table> -->
 
-The key design drivers for MAVIS are to fully exploit the outstanding image quality possible from the Adaptive Optics Facility over a significant field of view, and with the largest possible sky coverage. This will herald a new era of extremely high image quality in the visible from ground-based facilities, which will become commonplace in the near infrared with the advent of Extremely Large Telescopes (ELTs). Below we highlight just some of the key science capabilities that MAVIS will enable. See also the contributions to the [first MAVIS Science Workshop in November 2017]({{site.baseurl}}{% post_url 2017-11-27-first-mavis-science-workshop %}).
 
 
+MAVIS will be a unique facility. With an angular resolution of down to 18 milliarcseconds (close to 50 times better than the seeing limited conditions encountered without Adaptive Optics) and a powerful and sensitive post-focal instrumentation, MAVIS will be instrumental to bring answers to a number of astrophysical science questions regarding stellar evolution and star formation, physical composition of mid-redshift galaxies, how early galaxies assemble, or closer to us, weather monitoring on our solar system planets and moons.
 
+The Science Case has been developed during phase A. A call for white papers was widely answered by the community, resulting in 50 white papers involving 150 researchers from across the international astronomy community. 
+
+The science case was consolidated during the final period before the phase A review. It is now publicly available at arXiv.
+
+<!-- 
 ### Resolved Stellar Populations Beyond the Local Group
 
 <div style="clear:both; float:right; margin:0; padding:0; margin-left: 10px; width:50%; !important"><img style="clear:both; margin:0; padding:0; width:100%; !important" src="{{site.baseurl}}/assets/images/Screen%20Shot%202018-03-07%20at%206.47.21%20pm.png"><em style="font-size:90%;">Centaurus A, at a distance of 3.5Mpc, is our nearest early-type galaxy. The insert shows a simulated 2''x2'' thumbnail of a MAVIS-resolution image at one effective radius (~22 mag/sq.arcsec), with the corresponding input theoretical colour magnitude diagram, where colours represent different ages.</em></div>
@@ -84,7 +130,7 @@ While much solar system science is focussed on probe missions, many aspects are 
 
 
 <div style="clear:both;"></div>
-
+ -->
 
 
 ## Adaptive Optics and Multi-Conjugate Adaptive Optics
@@ -101,7 +147,7 @@ The net result of MCAO is that the corrected field of view is much enlarged with
 
 <div style="clear:both;"></div>
 
-### Is MCAO possible in the visible?
+<!-- ### Is MCAO possible in the visible?
 
 <img style="float: right; margin:0; padding:0; margin-left: 10px; width:30%; !important" src="{{site.baseurl}}/assets/images/lbt_flao.png">
 MAVIS proposes to merge two demonstrated techniques:
@@ -114,11 +160,11 @@ MAVIS proposes to merge two demonstrated techniques:
 
 MAVIS will combine these two demonstrated techniques to provide unprecedented angular resolution in the visible part of the spectrum. Of course, there are challenges, of which the tight error budget is certainly the one we will have to watch the most closely. Expected performance are reported below.
 
-<div style="clear:both;"></div>
+<div style="clear:both;"></div> -->
 
-## Expected performance and instrument design
+<!-- ## Expected performance and instrument design -->
 
-ESO's call for proposal includes Top Level Requirements (TLRs), [available on the ESO website](http://www.eso.org/public/about-eso/committees/stc/stc-91st/public/STC_610_ESO_299553_2_Top_Level_Requirements_VLT_Visible_MCAO_Instrument_91st_STC_mtg_April_2018.pdf) (public document). These requirements are important, but they could change, as a result of science cases completion, re-evaluation, and as a result of AO simulations and instrument design. The numbers below represent our best estimates to date.
+<!-- ESO's call for proposal includes Top Level Requirements (TLRs), [available on the ESO website](http://www.eso.org/public/about-eso/committees/stc/stc-91st/public/STC_610_ESO_299553_2_Top_Level_Requirements_VLT_Visible_MCAO_Instrument_91st_STC_mtg_April_2018.pdf) (public document). These requirements are important, but they could change, as a result of science cases completion, re-evaluation, and as a result of AO simulations and instrument design. The numbers below represent our best estimates to date.
 
 ### MCAO system
 
@@ -133,7 +179,6 @@ System parameters (subject to adjustment after the phase A)
 * Number of Laser Guide Stars: 8
 * Number of Natural Guide Stars 3
 * Zenith angle restrictions: <2 airmasses
-<!-- * Optical Throughput: TBD -->
 
 #### Sky coverage
 
@@ -142,19 +187,19 @@ The sky coverage is of the utmost importance for an AO system in general, and a 
 * There is a significant gain to be had by using the NGSs in the Near Infrared (typically 1 to 1.7 micron). At this wavelength, the NGSs are quite well corrected and the guiding can be done using their tight core, which improve accuracy and SNR ([here](https://www.google.com.au/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&ved=0ahUKEwjau5uA6tbZAhWJW5QKHcy3Bg4QFggrMAA&url=https%3A%2F%2Fwww.spiedigitallibrary.org%2Fconference-proceedings-of-spie%2F7015%2F70155X%2FEvaluating-sky-coverage-for-the-NFIRAOS-tiptilt-control-architecture%2F10.1117%2F12.787975.pdf&usg=AOvVaw09C68H1o0bHxJCRRfuM5vl) and [here](https://www.ncbi.nlm.nih.gov/pubmed/22695611)). For instance, NFIRAOS anticipates a sky coverage of 70% over the whole sky (it is NIR, so easier than visible, but ELT, so more difficult as the tolerable rms TT error is smaller).
 * Using as short and simple an optical train prior to the NGS wavefront sensors to maximise throughtput (e.g. as done in [NGS2](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/9909/1/NGS2--a-focal-plane-array-upgrade-for-the-GeMS/10.1117/12.2230481.full?SSO=1), the new generation sensor for GeMS at Gemini)
 
-A preliminary analysis of sky coverage will be done for the phase A proposal, and a full analysis for the phase A. For now, what is important to realise is that the performance degradation is gentle when going to fainter guide stars: A larger tip-tilt error means essentially a broadening of the Point Spread Function core, but the flux stays in the core, which means that this has little effect on the limiting magnitude of the images produced by the system, and almost zero effect for spectroscopic applications &mdash;to a certain extent&mdash; for which in general the aperture is larger than the diffraction limit.
+A preliminary analysis of sky coverage will be done for the phase A proposal, and a full analysis for the phase A. For now, what is important to realise is that the performance degradation is gentle when going to fainter guide stars: A larger tip-tilt error means essentially a broadening of the Point Spread Function core, but the flux stays in the core, which means that this has little effect on the limiting magnitude of the images produced by the system, and almost zero effect for spectroscopic applications &mdash;to a certain extent&mdash; for which in general the aperture is larger than the diffraction limit. -->
 
-### Post-focal instrumentation
+<!-- ### Post-focal instrumentation
 
 * Imager: 4kx4k covering the 30" FoV. Filters will include a set of broad band filters and narrow band filters TBD.
 * Spectrograph: TBD. One concept that seems to be picking up interest for the stellar applications proposes single fibres + fibre bundle with a Starbug positioner and a spectral resolution of 5000 to 10000 TBC. Another concept that is favoured by ESO is an image slicer IFU covering about 3x3" at 25mas spaxel size ("1/4 of MUSE"). 
 
 
-This is being defined right now by discussions within the science team (you are welcome to [join](mailto:richard.mcdermid@mavis-ao.org)). The AO performance is very much set by the atmosphere and the technology. The post-focal instrumentation is much more open, although it will inevitably be constrained by funding and compromises between the various instrumental options. The characteristics listed above are a snapshot of the current thinking.
+This is being defined right now by discussions within the science team (you are welcome to [join](mailto:richard.mcdermid@mavis-ao.org)). The AO performance is very much set by the atmosphere and the technology. The post-focal instrumentation is much more open, although it will inevitably be constrained by funding and compromises between the various instrumental options. The characteristics listed above are a snapshot of the current thinking. -->
 
 
-## Path forward
-
+<!-- ## Path forward -->
+<!-- 
 For the MAVIS consortium, and all scientists willing to join, the first and most important thing to do is to get ready for the expected call for phase A. It is expected that the proposal will be due by July 2018. The proposal should outline the case for such an instrument, complete convincingly the science case put together by [ESO](http://www.eso.org/public/about-eso/committees/stc/stc-90th/public/STC_601_Science_Cases_for_VLT_Visible_MCAO_Instrument_90th_STC_mtg_Oct_2017.pdf), sketch instrument designs, establish preliminary error budget and performance. In a word, present a convincing case that the instrument is doable, that it will produce excellent and unique science, and that the consortium is up to the task of producing a phase A. The team should start working on the proposal ASAP, and discussions have started to that effect. The [May 7-9 workshop](http://mavis-ao.org/workshop) intent is to:
 
 * Mature/advance our instrument and science case ideas with the view of writing the proposal;
@@ -166,4 +211,4 @@ The Australian team is going through a European MAVIS tour March 12-16 2018, vis
 
 If the MAVIS Phase A proposal is selected, it is expected that the phase A will last 15 months. If the project is approved beyond phase A, it is expected that the development time for MAVIS will be 7 years (including phase A), which puts MAVIS on sky mid-2025 (post HST, roughly in line with ELTs first light).
 
-![Sponsors]({{site.baseurl}}/assets/images/sponsors.png)
+![Sponsors]({{site.baseurl}}/assets/images/sponsors.png) -->

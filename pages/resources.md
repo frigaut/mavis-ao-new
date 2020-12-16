@@ -8,7 +8,9 @@ tags: [mavis,science]
 <!-- * Table of content -->
 <!-- {:toc} -->
 
-(This page is under construction, last updated 14 June 2018; this is version 0.9).
+
+
+**This page needs substantial updating (last updated 14 June 2018; this is version 0.9); we will soon update information about exposure time calculator, MAVISSIM image simulator, perfomance, PSF database etc. Watch this space!**
 
 This page contains links to useful information related to the estimated performance of MAVIS. This page will be updated over time to include the latest information available. If you are interested in contributing to these resources with your own simulations or estimates, or if you wish to suggest a particular property to simulate for your science case, please email project-scientist@mavis-ao.org. 
 
