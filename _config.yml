@@ -17,9 +17,9 @@ theme_settings:
 
   # Header and footer text
   header_text: > #two or three lines to describe your site
-     <p style="text-align:right;font-family: 'Alegreya Sans SC', sans-serif; font-weight: 800; color: #3b9eec; line-height: 1.5em;">
-     <font style="font-size: 400%;color: #fff; text-shadow: 0 0 5px rgba(255,255,255,0.8);">MAVIS</font><br>
-     <font style="font-size: 160%;color: #ccc; color: transparent; text-shadow: 0 0 2px rgba(255,255,255,0.5);">Sharper than JWST, deeper than HST</font>
+     <p style="text-align:right;font-family: 'CHUCKLESOME', sans-serif; font-weight: 100; color: #3b9eec; line-height: 1.5em;">
+     <font style="font-size: 300%;color: #fff; text-shadow: 0 0 5px rgba(255,255,255,0.8);">MAVIS</font><br>
+     <font style="font-size: 120%;color: #ccc; color: transparent; text-shadow: 0 0 1px rgba(255,255,255,0.5);">Sharper than JWST, deeper than HST</font>
      </p>
   header_text_feature_image: assets/img/pexels/cluster_banner.png
   footer_text: >
