@@ -102,8 +102,3 @@ Performance estimates are given for different natural guide star brightnesses (i
 | **25mas (radius)** | 10.2 | 3.4 | 3.4 | 3.6 | 4.0 |
 
 
-<br>
-<br>
-
-
-![Sponsors]({{site.baseurl}}/assets/images/sponsors.png)
