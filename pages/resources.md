@@ -5,10 +5,6 @@ permalink: /resources/
 tags: [mavis,science]
 ---
 
-<!-- * Table of content -->
-<!-- {:toc} -->
-
-
 
 **This page needs substantial updating (last updated 14 June 2018; this is version 0.9); we will soon update information about exposure time calculator, MAVISSIM image simulator, perfomance, PSF database etc. Watch this space!**
 
