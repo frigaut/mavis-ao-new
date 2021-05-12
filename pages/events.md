@@ -7,7 +7,7 @@ tags: [mavis,workshops]
 	
 ## Upcoming events
 
-We are please to announce the 2021 MAVIS Science Workshop, which will be fully online, scheduled for July 5-8th! More information can be found on the [workshop website](https://indico.ict.inaf.it/event/1420/)
+We are please to announce the 2021 MAVIS Science Workshop, which will be fully online, scheduled for July 5-8th! More information about the workshop and how to register can be found on the [workshop website](https://indico.ict.inaf.it/event/1420/).
 
 
 ## Past Events
