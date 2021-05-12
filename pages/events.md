@@ -7,13 +7,14 @@ tags: [mavis,workshops]
 	
 ## Upcoming events
 
-We are planning a virtual MAVIS workshop during the **first semester 2021**, before the end-of-COVID-we-can-travel-again rush, hopefully happening later in the year. Watch this space!
+We are please to announce the 2021 MAVIS Science Workshop, which will be fully online, scheduled for July 5-8th! More information can be found on the [workshop website](https://indico.ict.inaf.it/event/1420/)
+
 
 ## Past Events
 
 Below is a list of workshops that the MAVIS team have organised since the beginning of the project.
 
-* [**Online Science Workshop, July 5-8th 2021**](https://indico.ict.inaf.it/event/1420/)
+## * [**Online Science Workshop, July 5-8th 2021**]
 * [**Science Workshop, Macquarie University, December 4-6th 2019**]({{site.baseurl}}/workshop_mq2019/)
 * [**Science Workshop, Arcetri Observatory, November 4-8th 2019**](https://indico.ict.inaf.it/event/850/)
 * [**Science and Technical Workshop, AAO North Ryde, May 7-9th 2018**]({{site.baseurl}}/workshop/)
